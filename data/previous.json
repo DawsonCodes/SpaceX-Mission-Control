@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-29T00:42:19.472Z",
+  "generatedAt": "2026-09-29T18:44:02.793Z",
   "truncated": false,
   "counts": {
     "published": 20
@@ -10,7 +10,7 @@
       "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
       "name": "Starship | Starlink Group 31-1 (Starship Flight 14)",
       "net": "2026-09-28T12:48:59Z",
-      "lastUpdated": "2026-09-29T00:03:59Z",
+      "lastUpdated": "2026-09-29T15:33:32Z",
       "missionName": "Starlink Group 31-1 (Starship Flight 14)",
       "missionType": "Communications",
       "program": "Starlink",
@@ -42,9 +42,9 @@
       "padLat": 25.99677,
       "padLon": -97.15799,
       "tzId": "America/Chicago",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg",
-      "missionImage": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg",
-      "missionThumb": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_thumbnail_20260724044615.jpeg",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_liftof_image_20260929153327.jpg",
+      "missionImage": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_liftof_image_20260929153327.jpg",
+      "missionThumb": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_liftof_image_thumbnail_20260929153328.jpeg",
       "patchImage": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/starship2520if_mission_patch_20230414221655.png",
       "padImage": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_orbital_launch_mount_b_20241126031254.jpg",
       "programImage": "",
