@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-01T21:28:58.419Z",
+  "generatedAt": "2026-10-02T00:59:42.539Z",
   "truncated": false,
   "counts": {
     "published": 20
@@ -10,7 +10,7 @@
       "id": "67213393-7983-4c06-8b44-b8c785a5ed79",
       "name": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)",
       "net": "2026-10-01T18:32:00Z",
-      "lastUpdated": "2026-10-01T19:48:53Z",
+      "lastUpdated": "2026-10-01T23:19:46Z",
       "missionName": "Transporter 18 (Dedicated SSO Rideshare)",
       "missionType": "Dedicated Rideshare",
       "program": "",
@@ -51,7 +51,7 @@
       "rocketImage": "",
       "providerImage": "",
       "imageCredit": "SpaceX",
-      "webcast": "https://www.youtube.com/watch?v=9tmgAlQ33AM",
+      "webcast": "https://www.youtube.com/watch?v=pjEhZcddNgc",
       "official": "https://www.spacex.com/launches/transporter18",
       "wikipedia": "https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E",
       "upcoming": true,
@@ -83,7 +83,7 @@
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
       "name": "Falcon 9 Block 5 | Crew-13",
       "net": "2026-10-01T15:10:06Z",
-      "lastUpdated": "2026-10-01T16:04:57Z",
+      "lastUpdated": "2026-10-01T23:09:46Z",
       "missionName": "Crew-13",
       "missionType": "Human Exploration",
       "program": "Commercial Crew Program",
@@ -130,7 +130,7 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20220301072106.jpeg",
       "missionImage": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20220301072106.jpeg",
       "missionThumb": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192609.jpeg",
-      "patchImage": "",
+      "patchImage": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/crew-132520pat_mission_patch_20261001222243.png",
       "padImage": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_liftoff_from_image_20240621050513.jpeg",
       "programImage": "",
       "rocketImage": "",
