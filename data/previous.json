@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-02T13:17:42.202Z",
+  "generatedAt": "2026-10-02T18:33:09.648Z",
   "truncated": false,
   "counts": {
     "published": 20
@@ -10,7 +10,7 @@
       "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
       "name": "Falcon Heavy | NROL-97",
       "net": "2026-10-02T03:54:00Z",
-      "lastUpdated": "2026-10-02T07:13:33Z",
+      "lastUpdated": "2026-10-02T14:51:48Z",
       "missionName": "NROL-97",
       "missionType": "Government/Top Secret",
       "program": "",
