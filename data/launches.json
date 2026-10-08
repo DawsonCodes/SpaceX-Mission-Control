@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-08T01:24:30.014Z",
+  "generatedAt": "2026-10-08T07:37:12.877Z",
   "truncated": false,
   "counts": {
     "providers": 302,
@@ -124,7 +124,7 @@
       "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
       "net": "2026-10-13T10:33:44Z",
-      "lastUpdated": "2026-10-07T21:58:01Z",
+      "lastUpdated": "2026-10-08T05:04:24Z",
       "missionName": "Dragon CRS-2 SpX-35",
       "missionType": "Resupply",
       "program": "Commercial Resupply Services",
@@ -165,7 +165,7 @@
       "rocketImage": "",
       "providerImage": "",
       "imageCredit": "SpaceX",
-      "webcast": "https://x.com/i/broadcasts/1aJbdEzoAvYKX",
+      "webcast": "https://plus.nasa.gov/scheduled-video/nasas-spacex-35th-commercial-resupply-services-launch/",
       "official": "https://www.spacex.com/launches/crs35",
       "wikipedia": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40",
       "upcoming": true
